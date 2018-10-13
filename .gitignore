@@ -105,3 +105,6 @@ venv.bak/
 
 # macbook files
 .DS_Store
+
+# ignore the manual files
+commands_accelerator.txt
