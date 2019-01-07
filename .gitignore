@@ -108,3 +108,8 @@ venv.bak/
 
 # ignore the manual files
 commands_accelerator.txt
+
+# data folders and files
+data/
+data_2016/
+hourly_weather_data.csv

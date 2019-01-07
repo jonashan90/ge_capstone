@@ -1,1 +1,1 @@
-# dsi_capstone_ge
+# General Electric Wind Turbine Project
